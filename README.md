@@ -1,4 +1,6 @@
-# Prediction of the amount of gold recovered from gold ore
+## Prediction of the amount of gold recovered from gold ore:
+https://github.com/hamedtaeb/Gold_Recover
+
 The model should predict the amount of gold recovered from gold ore. You have the data on extraction and purification.
 The model will help to optimize the production and eliminate unprofitable parameters.
 You need to:
